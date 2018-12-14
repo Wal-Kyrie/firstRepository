@@ -1,3 +1,3 @@
 <?php 
-	x = y;
+	echo "Hello world!";
 ?>
