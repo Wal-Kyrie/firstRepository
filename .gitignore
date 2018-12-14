@@ -1,0 +1,5 @@
+# this is folder for logs
+logs/
+
+# useless documents
+docs/*.txt
